@@ -1,0 +1,26 @@
+C:\Users\Stan Nedelkov\source\repos\VisualConsoleTest\VisualConsoleTest\bin\Debug\netcoreapp3.1\VisualConsoleTest.exe
+C:\Users\Stan Nedelkov\source\repos\VisualConsoleTest\VisualConsoleTest\bin\Debug\netcoreapp3.1\VisualConsoleTest.deps.json
+C:\Users\Stan Nedelkov\source\repos\VisualConsoleTest\VisualConsoleTest\bin\Debug\netcoreapp3.1\VisualConsoleTest.runtimeconfig.json
+C:\Users\Stan Nedelkov\source\repos\VisualConsoleTest\VisualConsoleTest\bin\Debug\netcoreapp3.1\VisualConsoleTest.runtimeconfig.dev.json
+C:\Users\Stan Nedelkov\source\repos\VisualConsoleTest\VisualConsoleTest\bin\Debug\netcoreapp3.1\VisualConsoleTest.dll
+C:\Users\Stan Nedelkov\source\repos\VisualConsoleTest\VisualConsoleTest\bin\Debug\netcoreapp3.1\VisualConsoleTest.pdb
+C:\Users\Stan Nedelkov\source\repos\VisualConsoleTest\VisualConsoleTest\obj\Debug\netcoreapp3.1\VisualConsoleTest.csproj.AssemblyReference.cache
+C:\Users\Stan Nedelkov\source\repos\VisualConsoleTest\VisualConsoleTest\obj\Debug\netcoreapp3.1\VisualConsoleTest.AssemblyInfoInputs.cache
+C:\Users\Stan Nedelkov\source\repos\VisualConsoleTest\VisualConsoleTest\obj\Debug\netcoreapp3.1\VisualConsoleTest.AssemblyInfo.cs
+C:\Users\Stan Nedelkov\source\repos\VisualConsoleTest\VisualConsoleTest\obj\Debug\netcoreapp3.1\VisualConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Stan Nedelkov\source\repos\VisualConsoleTest\VisualConsoleTest\obj\Debug\netcoreapp3.1\VisualConsoleTest.dll
+C:\Users\Stan Nedelkov\source\repos\VisualConsoleTest\VisualConsoleTest\obj\Debug\netcoreapp3.1\VisualConsoleTest.pdb
+C:\Users\Stan Nedelkov\source\repos\VisualConsoleTest\VisualConsoleTest\obj\Debug\netcoreapp3.1\VisualConsoleTest.genruntimeconfig.cache
+C:\Users\Stan Nedelkov\Desktop\New folder (2)\VisualConsoleTest\VisualConsoleTest\bin\Debug\netcoreapp3.1\VisualConsoleTest.exe
+C:\Users\Stan Nedelkov\Desktop\New folder (2)\VisualConsoleTest\VisualConsoleTest\bin\Debug\netcoreapp3.1\VisualConsoleTest.deps.json
+C:\Users\Stan Nedelkov\Desktop\New folder (2)\VisualConsoleTest\VisualConsoleTest\bin\Debug\netcoreapp3.1\VisualConsoleTest.runtimeconfig.json
+C:\Users\Stan Nedelkov\Desktop\New folder (2)\VisualConsoleTest\VisualConsoleTest\bin\Debug\netcoreapp3.1\VisualConsoleTest.runtimeconfig.dev.json
+C:\Users\Stan Nedelkov\Desktop\New folder (2)\VisualConsoleTest\VisualConsoleTest\bin\Debug\netcoreapp3.1\VisualConsoleTest.dll
+C:\Users\Stan Nedelkov\Desktop\New folder (2)\VisualConsoleTest\VisualConsoleTest\bin\Debug\netcoreapp3.1\VisualConsoleTest.pdb
+C:\Users\Stan Nedelkov\Desktop\New folder (2)\VisualConsoleTest\VisualConsoleTest\obj\Debug\netcoreapp3.1\VisualConsoleTest.csproj.AssemblyReference.cache
+C:\Users\Stan Nedelkov\Desktop\New folder (2)\VisualConsoleTest\VisualConsoleTest\obj\Debug\netcoreapp3.1\VisualConsoleTest.AssemblyInfoInputs.cache
+C:\Users\Stan Nedelkov\Desktop\New folder (2)\VisualConsoleTest\VisualConsoleTest\obj\Debug\netcoreapp3.1\VisualConsoleTest.AssemblyInfo.cs
+C:\Users\Stan Nedelkov\Desktop\New folder (2)\VisualConsoleTest\VisualConsoleTest\obj\Debug\netcoreapp3.1\VisualConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Stan Nedelkov\Desktop\New folder (2)\VisualConsoleTest\VisualConsoleTest\obj\Debug\netcoreapp3.1\VisualConsoleTest.dll
+C:\Users\Stan Nedelkov\Desktop\New folder (2)\VisualConsoleTest\VisualConsoleTest\obj\Debug\netcoreapp3.1\VisualConsoleTest.pdb
+C:\Users\Stan Nedelkov\Desktop\New folder (2)\VisualConsoleTest\VisualConsoleTest\obj\Debug\netcoreapp3.1\VisualConsoleTest.genruntimeconfig.cache
